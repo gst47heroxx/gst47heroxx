@@ -41,9 +41,9 @@ Started taking GitHub seriously after getting the GitHub Student Pack — now I'
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gst47heroxx&show_icons=true&theme=tokyonight)
+![GitHub stats]([https://github-readme-stats.vercel.app/api?username=gst47heroxx&show_icons=true&theme=tokyonight](https://github-readme-stats-sigma-five.vercel.app/api?username=gst47heroxx&show_icons=true&theme=tokyonight))
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gst47heroxx&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gst47heroxx&layout=compact&theme=tokyonight)
 
 ---
 
