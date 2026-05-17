@@ -1,16 +1,57 @@
-## Hi there 👋
+# Hey, I'm Standa 👋
 
-<!--
-**gst47heroxx/gst47heroxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Exploring tech, AI, automation & building smarter systems
 
-Here are some ideas to get you started:
+I'm currently learning and experimenting with development, automation tools, and AI workflows.  
+Started taking GitHub seriously after getting the GitHub Student Pack — now I'm building, testing, and learning step by step.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ Current Focus
+- 🤖 AI & automation
+- 🛠 Building useful tools
+- 🔗 APIs & integrations
+- 📈 Workflow optimization
+- 🧠 Systems thinking
+
+---
+
+## 🧰 Tech I'm Learning
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,python" />
+</p>
+
+---
+
+## 📌 Goals for 2026
+- Build real-world projects
+- Learn modern development workflows
+- Create automations that save time
+- Share my progress publicly
+- Keep improving every week
+
+---
+
+## 🌙 Philosophy
+> Work smarter.  
+> Automate repetitive things.  
+> Build systems instead of stress.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=gst47heroxx&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gst47heroxx&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Connect
+- GitHub: https://github.com/gst47heroxx
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=120&section=footer"/>
+</p>
